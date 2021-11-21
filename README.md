@@ -1,0 +1,1 @@
+# Optical-Charachter-Recognition-using-EasyOCR
